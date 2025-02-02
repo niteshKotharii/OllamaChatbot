@@ -1,8 +1,8 @@
-# Chatbot using Ollama
+## Chatbot using Ollama
 
 
 
-## Prerequisites
+### Prerequisites
 
 1. **Ollama should be installed and running**.  
    If you haven’t installed Ollama yet, please follow the installation instructions on [Ollama.com](https://www.ollama.com/).
@@ -12,7 +12,10 @@
    ```bash
    ollama pull <model> 
 
+   
+### Install
+   ```bash
+   pip install ollama
 
-## Install
- ```bash
- pip install ollama
+
+### Then run app.py
