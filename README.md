@@ -12,6 +12,8 @@
    ```bash
    ollama pull <model> 
 
+Example:
+dhieoifwe
    
 ### Install
     ```bash
