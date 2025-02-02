@@ -3,7 +3,7 @@
 
 
 ### Prerequisites
-
+   
 1. **Ollama should be installed and running**.  
    If you haven’t installed Ollama yet, please follow the installation instructions on [Ollama.com](https://www.ollama.com/).
 
@@ -14,8 +14,13 @@
 
    
 ### Install
-   ```bash
-   pip install ollama
+    ```bash
+     pip install ollama
 
 
-### Then run app.py
+## Then run `app.py`
+
+Once the installation is complete and you have pulled a model, you can now run the application. To start your chatbot application, execute the following command:
+
+```bash
+python app.py
