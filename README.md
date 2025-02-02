@@ -13,16 +13,18 @@
    ollama pull <model> 
 
 Example:
-dhieoifwe
-   
+   ```bash
+   ollama pull llama3.2
+   ```
+
 ### Install
-    ```bash
-     pip install ollama
-
-
+   ```bash
+   pip install ollama
+   ```
 ## Then run `app.py`
 
 Once the installation is complete and you have pulled a model, you can now run the application. To start your chatbot application, execute the following command:
 
 ```bash
 python app.py
+```
