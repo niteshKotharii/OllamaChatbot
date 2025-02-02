@@ -10,12 +10,13 @@
 2. **Pull a model to use with the library**:  
    Run the following command to download a model:
    ```bash
-   ollama pull <model> 
-
-Example:
-   ```bash
-   ollama pull llama3.2
+   ollama pull <model>
    ```
+
+   Example:
+      ```bash
+      ollama pull llama3.2
+      ```
 
 ### Install
    ```bash
