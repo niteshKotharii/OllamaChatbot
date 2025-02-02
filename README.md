@@ -12,3 +12,7 @@
    ```bash
    ollama pull <model> 
 
+
+## Install
+ ```bash
+ pip install ollama
